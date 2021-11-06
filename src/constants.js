@@ -1,9 +1,9 @@
-export const baseURL = 'https://www.softmark.com.gh/';
+export const baseURL = '#';
 export const playstoreURL =
-  'https://play.google.com/store/apps/details?id=com.softmark';
-export const baseIMGUrl = 'https://www.softmark.com.gh/storage/products/images';
+  '#';
+export const baseIMGUrl = '#';
 export const baseBannerURL =
-  'https://www.softmark.com.gh/storage/banners/images';
+  '#';
 export const phoneNumber = '0506129305';
 export const primaryColor = '#157ed2';
 export const primaryBg = '#f6f6f6';
